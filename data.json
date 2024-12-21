@@ -1,0 +1,7 @@
+[
+  {"Product": "Almond milk", "land": 0.50, "emission": 0.70, "water": 3.7146, "eutro": 1.50},
+  {"Product": "Dairy milk", "land": 8.95, "emission": 3.15, "water": 6.2820, "eutro": 10.65},
+  {"Product": "Oat milk", "land": 0.76, "emission": 0.90, "water": 0.4824, "eutro": 1.62},
+  {"Product": "Rice milk", "land": 0.34, "emission": 1.18, "water": 2.6981, "eutro": 4.69},
+  {"Product": "Soy milk", "land": 0.66, "emission": 0.98, "water": 0.2780, "eutro": 1.06}
+]
